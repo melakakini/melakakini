@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melakakini
-- 👀 I’m interested in promoting Melaka my hometown to the world.
+- 👀 I’m interested in promoting Melaka my hometown to the world and learning to automate the builds for the GitHub page with webhooks and hosting it while running Hugo
 - 🌱 I’m currently learning python and building static websites with Hugo
 - 💞️ I’m looking to collaborate on python projects and their documentation especially to understand the usse of git in updating and the meaning of version control in practice
 - 📫 How to reach me is simple, via email to melakakini@hotmail.com
